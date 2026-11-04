@@ -1,32 +1,32 @@
 <div align="center">
 
-# Salut, moi c’est Louis 👋
+# Hi, I’m Louis 👋
 
-### Curieux, créatif, et toujours en train de construire quelque chose.
+### Curious, creative, and always building something.
 
-[🌐 Mon portfolio](https://portfolio.gauvrit-louiss.workers.dev/) • [💻 Mon GitHub](https://github.com/LouisGauvrit)
+[🌐 My portfolio](https://portfolio.gauvrit-louiss.workers.dev/) • [💻 My GitHub](https://github.com/LouisGauvrit)
 
 </div>
 
 ---
 
-## ✨ À propos
+## ✨ About me
 
-- 🔭 Je construis des projets pour apprendre, expérimenter et concrétiser mes idées.
-- 🛠️ J’aime créer des applications web et des interfaces utiles.
-- 💬 On peut parler de développement web, de design d’interfaces et de projets.
-- ⚡ Ma motivation : comprendre comment ça fonctionne, puis essayer par moi-même.
+- 🔭 I build projects to learn, experiment, and bring my ideas to life.
+- 🛠️ I enjoy creating web applications and useful interfaces.
+- 💬 Let’s talk about web development, interface design, and projects.
+- ⚡ What drives me: understanding how things work, then trying them myself.
 
-## 🧰 Compétences
+## 🧰 Skills
 
-Les langages et technologies que j’utilise dans mes projets.
+The languages and technologies I use in my projects.
 
-### 💻 Langages de programmation
+### 💻 Programming languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Développement web
+### 🎨 Web development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
@@ -34,32 +34,24 @@ Les langages et technologies que j’utilise dans mes projets.
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### ⚙️ Outils et environnement
+### ⚙️ Tools & environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 Projets
+## 🚀 Projects
 
-| Projet | Description | Technologies |
+| Project | Description | Technologies |
 | --- | --- | --- |
-| [🌡️ IUT Room Monitor](https://github.com/LouisGauvrit/iut-room-monitor) | Application de suivi de la température, de l’humidité et de la qualité de l’air dans les salles de l’IUT, avec des alertes lors du dépassement des seuils. | JavaScript, PHP, Symfony, Docker |
-| [🌐 Mon portfolio](https://portfolio.gauvrit-louiss.workers.dev/) | Mon espace personnel pour présenter mes projets, mes compétences et mon univers. | React, JavaScript, HTML, CSS |
-
-## 📊 Langages sur mes dépôts
-
-<div align="center">
-
-[![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisGauvrit&layout=compact&langs_count=20&theme=transparent)](https://github.com/LouisGauvrit?tab=repositories)
-
-</div>
+| [🌡️ IUT Room Monitor](https://github.com/LouisGauvrit/iut-room-monitor) | A web application for monitoring temperature, humidity, and air quality in IUT classrooms, with alerts when thresholds are exceeded. | JavaScript, PHP, Symfony, Docker |
+| [🌐 My portfolio](https://portfolio.gauvrit-louiss.workers.dev/) | My personal space to showcase my projects, skills, and creative interests. | React, JavaScript, HTML, CSS |
 
 ---
 
 <div align="center">
 
-Merci d’être passé·e — les prochaines idées sont déjà en chantier. ⚡
+Thanks for stopping by — the next ideas are already in the works. ⚡
 
 </div>
