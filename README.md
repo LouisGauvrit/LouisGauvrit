@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LouisGauvrit/LouisGauvrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salut, moi c’est Louis 👋
 
-Here are some ideas to get you started:
+### Curieux, créatif, et toujours en train de construire quelque chose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub (https://github.com/LouisGauvrit)
+</div>
+
+———
+
+## ✨ À propos
+
+- 🔭 En ce moment : [ce sur quoi tu travailles]
+- 🌱 J’apprends : [technologies ou sujets]
+- 🛠️ J’aime créer : [types de projets qui te plaisent]
+- 💬 On peut parler de : [tes sujets favoris]
+
+## 🚀 Projets
+
+> Quelques projets dont je suis fier — à compléter avec tes dépôts.
+
+| Projet | Description |
+|---|---|
+| Nom du projet (lien-vers-le-repo) | [Ce qu’il fait et pourquoi tu l’as créé.] |
+| Nom du projet (lien-vers-le-repo) | [Une autre idée ou réalisation.] |
+
+## 🧰 Ma boîte à outils
+
+[Langage] · [Framework] · [Outil] · [Autre]
+
+———
+<div align="center">
+
+Merci d’être passé·e — les prochaines idées sont déjà en chantier. ⚡
+</div>
