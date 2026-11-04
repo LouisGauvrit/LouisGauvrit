@@ -33,4 +33,8 @@ GitHub (https://github.com/LouisGauvrit)
 <div align="center">
 
 Merci d’être passé·e — les prochaines idées sont déjà en chantier. ⚡
+
+## 🧰 Langages sur mes dépôts
+
+[![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisGauvrit&layout=compact&langs_count=20&theme=transparent)](https://github.com/LouisGauvrit?tab=repositories)
 </div>
