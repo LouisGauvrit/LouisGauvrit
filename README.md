@@ -25,9 +25,6 @@ GitHub (https://github.com/LouisGauvrit)
 | Nom du projet (lien-vers-le-repo) | [Ce qu’il fait et pourquoi tu l’as créé.] |
 | Nom du projet (lien-vers-le-repo) | [Une autre idée ou réalisation.] |
 
-## 🧰 Ma boîte à outils
-
-[Langage] · [Framework] · [Outil] · [Autre]
 
 ———
 <div align="center">
