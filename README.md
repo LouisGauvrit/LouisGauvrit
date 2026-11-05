@@ -2,24 +2,13 @@
 
 # Hi, I’m Louis 👋
 
-### Curious, creative, and always building something.
+### 🎓 I’m a third-year Computer Science student at the IUT of La Rochelle University.
 
-[🌐 My portfolio](https://portfolio.gauvrit-louiss.workers.dev/) • [💻 My GitHub](https://github.com/LouisGauvrit)
+[🌐 My portfolio](https://portfolio.gauvrit-louiss.workers.dev/)
 
 </div>
 
 ---
-
-## ✨ About me
-
-- 🔭 I build projects to learn, experiment, and bring my ideas to life.
-- 🛠️ I enjoy creating web applications and useful interfaces.
-- 💬 Let’s talk about web development, interface design, and projects.
-- ⚡ What drives me: understanding how things work, then trying them myself.
-
-## 🧰 Skills
-
-The languages and technologies I use in my projects.
 
 ### 💻 Programming languages
 
